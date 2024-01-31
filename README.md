@@ -1,6 +1,6 @@
 # Wokwi project
 
-LED counter 
+Simple binary LED counter 
 
 ## Usage
 
